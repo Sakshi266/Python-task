@@ -17,6 +17,7 @@ Removing duplicates
 
 Splitting & joining strings
 
+
 ✔️ List Operations
 
 Accessing elements with positive/negative indexing
@@ -30,6 +31,7 @@ Sorting & reversing
 List comprehensions
 
 Finding max/min/sum
+
 
 ✔️ Dictionary Operations
 
@@ -45,6 +47,7 @@ Reverse lookup
 
 Frequency counting
 
+
 ✔️ Operators in Python
 
 Arithmetic operators
@@ -56,6 +59,7 @@ Comparison operators
 Membership operators (in, not in)
 
 Identity operators (is, is not)
+
 
 ### 🚀 What This Project Includes
 📁 Features
@@ -70,10 +74,10 @@ Beginner-friendly explanations
 
 Suitable for:
 
-Python learners
+   Python learners
 
-Students
+   Students
 
-Coding interview preparation
+   Coding interview preparation
 
-College lab assignments
+   College lab assignments
